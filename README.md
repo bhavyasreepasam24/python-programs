@@ -1,5 +1,4 @@
 # python-programs
-# Python Programs
 
 This repository contains beginner and intermediate Python programs created for practice, problem-solving, and learning core programming concepts.
 
